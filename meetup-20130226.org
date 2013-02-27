@@ -1,7 +1,26 @@
-#+title: Referencing media links
+#+title: Meetup@Sfeir - 26/02/2013
 #+author: cpug members
 
+Un ultra rapide sommaire de l'evenement
+
+* Tour de table
+
+Tour de table ou chacun s'est presente
+Globalement, developpeurs du monde jvm, des enseignant/chercheur et developpeur c++.
+
+* Presentation
+
+** Petite application clojure/compojure/hiccup
+
+Pas de lien possible de l'application presentee - [[https://github.com/ardumont/geekteek][Application a architecture identique]]
+
+** Introduction a [[https://github.com/drcode/webfui][webfui]]
+
+** Pas de code produit (pas encore :D)
+
 * Videos
+Au cours de la soiree, des liens ont ete echanges, principalement sur des videos:
+
 - [[http://skillsmatter.com/podcast/scala/a-practical-tour-of-clojure-web-development][Sur l'immutabilité et les documents web]]
 - [[http://vimeo.com/52831373][Encore sur l'immutabilité dans les systèmes]]
 - [[http://blip.tv/clojure/neal-ford-neal-s-master-plan-for-clojure-enterprise-mindshare-domination-5953926][Neal Ford's master plan for clojure enterprise mindshare domination]]
