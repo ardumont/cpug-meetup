@@ -1,0 +1,9 @@
+#+title: Referencing media links
+#+author: cpug members
+
+* Videos
+- [[http://skillsmatter.com/podcast/scala/a-practical-tour-of-clojure-web-development][Sur l'immutabilité et les documents web]]
+- [[http://vimeo.com/52831373][Encore sur l'immutabilité dans les systèmes]]
+- [[http://blip.tv/clojure/neal-ford-neal-s-master-plan-for-clojure-enterprise-mindshare-domination-5953926][Neal Ford's master plan for clojure enterprise mindshare domination]]
+- [[http://skillsmatter.com/podcast/scala/clojure-at-nokia-entertainment][Exemple d'utilisation progressive de Clojure en entreprise (Nokia)]]
+- [[http://www.infoq.com/presentations/What-Sucks-about-Clojure-and-Why-You-ll-Love-It-Anyway][What sucks about clojure and why you'll love it anyway]]
