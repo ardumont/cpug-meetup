@@ -1,28 +1,35 @@
-#+title: Meetup@Sfeir - 26/02/2013
+#+title: Meetup@Sfeir - <2013-02-26 Tue 19:00-22:00>
 #+author: cpug members
 
-Un ultra rapide sommaire de l'evenement
+Un ultra rapide sommaire de l'évènement.
 
 * Tour de table
 
-Tour de table ou chacun s'est presente
-Globalement, developpeurs du monde jvm, des enseignant/chercheur et developpeur c++.
+Tour de table ou chacun s'est présenté
+Globalement, développeurs du monde jvm, des enseignant/chercheur et développeur c++.
 
-* Presentation
+* Présentation
 
 ** Petite application clojure/compojure/hiccup
 
-Pas de lien possible de l'application presentee - [[https://github.com/ardumont/geekteek][Application a architecture identique]]
+Pas de lien possible de l'application présentée - [[https://github.com/ardumont/geekteek][Application à architecture identique]]
 
 ** Introduction a [[https://github.com/drcode/webfui][webfui]]
 
+Pour ceux qui n'ont pas pu être là, ça ressemblait à [[https://www.youtube.com/watch?v%3DHeI5-D7SQe8][cette présentation par l'auteur]].
+
 ** Pas de code produit (pas encore :D)
 
-* Videos
-Au cours de la soiree, des liens ont ete echanges, principalement sur des videos:
+* Vidéos
+Au cours de la soirée, des liens ont été échangés, principalement sur des vidéos:
 
 - [[http://skillsmatter.com/podcast/scala/a-practical-tour-of-clojure-web-development][Sur l'immutabilité et les documents web]]
 - [[http://vimeo.com/52831373][Encore sur l'immutabilité dans les systèmes]]
 - [[http://blip.tv/clojure/neal-ford-neal-s-master-plan-for-clojure-enterprise-mindshare-domination-5953926][Neal Ford's master plan for clojure enterprise mindshare domination]]
 - [[http://skillsmatter.com/podcast/scala/clojure-at-nokia-entertainment][Exemple d'utilisation progressive de Clojure en entreprise (Nokia)]]
 - [[http://www.infoq.com/presentations/What-Sucks-about-Clojure-and-Why-You-ll-Love-It-Anyway][What sucks about clojure and why you'll love it anyway]]
+
+* Emacs
+Il semble que Clojure ait fait naître quelques vocations pour Emacs,
+voire pour [[http://orgmode.org/][org mode]]. Un exemple de (tout ‽) [[http://doc.norang.ca/org-mode.html][ce qu'il est possible de
+faire]] !
