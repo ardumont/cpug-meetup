@@ -18,6 +18,12 @@ Pas de lien possible de l'application présentée - [[https://github.com/ardumon
 
 Pour ceux qui n'ont pas pu être là, ça ressemblait à [[https://www.youtube.com/watch?v%3DHeI5-D7SQe8][cette présentation par l'auteur]].
 
+Aussi vivement recommandé :
+- Le [[https://docs.google.com/document/d/1KQn_saQurqgvxHiyuOZ7twK4K_w_VftBHrPKJolwEZ8/edit][document de design]] de WebFUI.
+- Il explique pas à pas les enjeux qui ont mené aux décisions prises
+  dans le framework.
+- Et dont sont dérivés tout les exemples de code ainsi que la présentation ci-dessus.
+
 ** Pas de code produit (pas encore :D)
 
 * Vidéos
