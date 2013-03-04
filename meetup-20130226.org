@@ -1,41 +1,62 @@
 #+title: Meetup@Sfeir - <2013-02-26 Tue 19:00-22:00>
 #+author: cpug members
 
-Un ultra rapide sommaire de l'évènement.
+* Ultra quick summary of the meetup.
 
-* Tour de table
+The meetup was organized in [[http://www.sfeir.com/][Sfeir]]'s offices in Paris.
 
-Tour de table ou chacun s'est présenté
-Globalement, développeurs du monde jvm, des enseignant/chercheur et développeur c++.
+** Who were there?
 
-* Présentation
+Everyone quickly introduced himself.
 
-** Petite application clojure/compojure/hiccup
+Participants:
+- A majority of developers from the JVM world
+- Someone in the field of astrophysics
+- A C++ developer
+- ...
 
-Pas de lien possible de l'application présentée - [[https://github.com/ardumont/geekteek][Application à architecture identique]]
+** What was the topic of the meetup?
 
-** Introduction a [[https://github.com/drcode/webfui][webfui]]
+Purpose of the meetup: Explore the webFUI framework.
+- It's a framework on top of [[https://github.com/clojure/clojurescript#what-is-clojurescript][Clojurescript]].
+- Aims at: Purely functional programming in the browser.
+- Essentially: *The DOM as data (tm)*.
 
-Pour ceux qui n'ont pas pu être là, ça ressemblait à [[https://www.youtube.com/watch?v%3DHeI5-D7SQe8][cette présentation par l'auteur]].
+*** Clojure and the Web Intro: Clojure + Compojure + Hiccup
 
-Aussi vivement recommandé :
-- Le [[https://docs.google.com/document/d/1KQn_saQurqgvxHiyuOZ7twK4K_w_VftBHrPKJolwEZ8/edit][document de design]] de WebFUI.
-- Il explique pas à pas les enjeux qui ont mené aux décisions prises
-  dans le framework.
-- Et dont sont dérivés tout les exemples de code ainsi que la présentation ci-dessus.
+Before diving into the Ajaxy world, a small "traditional" web "1.0" app
+was presented, with the same architecture as [[https://github.com/ardumont/geekteek][this application]].
 
-** Pas de code produit (pas encore :D)
+*** [[https://github.com/drcode/webfui][webFUI]] introduction
 
-* Vidéos
-Au cours de la soirée, des liens ont été échangés, principalement sur des vidéos:
+The presentation looked like the one [[https://www.youtube.com/watch?v%3DHeI5-D7SQe8][by the author at ClojureConj 2012]].
 
-- [[http://skillsmatter.com/podcast/scala/a-practical-tour-of-clojure-web-development][Sur l'immutabilité et les documents web]]
-- [[http://vimeo.com/52831373][Encore sur l'immutabilité dans les systèmes]]
+For those interested by the framework, the [[https://docs.google.com/document/d/1KQn_saQurqgvxHiyuOZ7twK4K_w_VftBHrPKJolwEZ8/edit][design document of webFUI]] is
+highly recommended:
+- It explains the constraints that led to the design decisions of the
+  framework.
+- And all code examples are derived from this doc.
+
+*** No code was written ...
+
+... yet ! :wink:
+
+** Videos links
+
+During the meetup, we talked about a lot of things, here are the links
+for some of them:
+
+- [[http://skillsmatter.com/podcast/scala/a-practical-tour-of-clojure-web-development][Immutability for Web documents]]
+- [[http://vimeo.com/52831373][Immutability for systems]]
 - [[http://blip.tv/clojure/neal-ford-neal-s-master-plan-for-clojure-enterprise-mindshare-domination-5953926][Neal Ford's master plan for clojure enterprise mindshare domination]]
-- [[http://skillsmatter.com/podcast/scala/clojure-at-nokia-entertainment][Exemple d'utilisation progressive de Clojure en entreprise (Nokia)]]
+- [[http://skillsmatter.com/podcast/scala/clojure-at-nokia-entertainment][How they introduced Clojure @ Nokia]]
 - [[http://www.infoq.com/presentations/What-Sucks-about-Clojure-and-Why-You-ll-Love-It-Anyway][What sucks about clojure and why you'll love it anyway]]
 
-* Emacs
-Il semble que Clojure ait fait naître quelques vocations pour Emacs,
-voire pour [[http://orgmode.org/][org mode]]. Un exemple de (tout ‽) [[http://doc.norang.ca/org-mode.html][ce qu'il est possible de
-faire]] !
+** Emacs
+
+For some, discovering Clojure also led to (re)discovering Emacs, and
+[[http://orgmode.org/][org-mode]].
+
+Here an example of (everything?) that you can do with it [[http://doc.norang.ca/org-mode.html][that you can do
+with it]].
+
